@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Create",
+    "path": "/Create",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\Frontend_Twitter\\\\FE-Tweet\\\\pages\\\\Create.vue",
+    "chunkName": "pages/Create",
+    "_name": "_02f9151b"
+  },
+  {
+    "name": "Posts",
+    "path": "/Posts",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\Frontend_Twitter\\\\FE-Tweet\\\\pages\\\\Posts.vue",
+    "chunkName": "pages/Posts",
+    "_name": "_4c89e084"
+  },
+  {
+    "name": "Profile",
+    "path": "/Profile",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\Frontend_Twitter\\\\FE-Tweet\\\\pages\\\\Profile.vue",
+    "chunkName": "pages/Profile",
+    "_name": "_f266ddcc"
+  },
+  {
+    "name": "Register",
+    "path": "/Register",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\Frontend_Twitter\\\\FE-Tweet\\\\pages\\\\Register.vue",
+    "chunkName": "pages/Register",
+    "_name": "_b2ae9cfc"
+  },
+  {
+    "name": "postpage-id",
+    "path": "/postpage/:id?",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\Frontend_Twitter\\\\FE-Tweet\\\\pages\\\\postpage\\\\_id.vue",
+    "chunkName": "pages/postpage/_id",
+    "_name": "_54c5203c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\Frontend_Twitter\\\\FE-Tweet\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2c87d623"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "Postbar": {
+    "description": "Auto imported from components/Postbar.vue"
+  },
+  "Registerbar": {
+    "description": "Auto imported from components/Registerbar.vue"
+  },
+  "SinglePost": {
+    "description": "Auto imported from components/SinglePost.vue"
+  }
+}
